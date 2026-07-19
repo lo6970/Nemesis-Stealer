@@ -1,3 +1,4 @@
+<img width="1107" height="629" alt="Screenshot 2026-07-19 181938" src="https://github.com/user-attachments/assets/161572a5-8e1b-4b16-9e5d-70ed1a1fbcbb" />
 # NEMESIS
 
 Stealer Builder & Windows Toolkit
