@@ -23,6 +23,14 @@ The setup.bat installs CustomTkinter, PyInstaller, Pillow, OpenCV, and Requests 
 
 ---
 
+## Two ways to use
+
+**Option A - Ready to use:** Simply run `Nemesis.exe` from the folder. The C++ executable is pre-compiled and ready. Make sure `nemesis_py_builder.py` is in the same folder for the stealer builder to work. Python must be installed.
+
+**Option B - Build it yourself:** The source code is included. Open the Developer Command Prompt for Visual Studio and compile with `cl /O2 /EHsc nemesis_main.cpp /Fe:Nemesis.exe user32.lib`. You can also modify the code before building.
+
+---
+
 ## How to use
 
 When you open Nemesis.exe you see a menu with 9 numbered options. Type the number and press Enter to select something. After each tool finishes, press Enter to go back to the menu. Type 9 and Enter to close the program.
