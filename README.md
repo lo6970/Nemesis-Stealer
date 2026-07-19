@@ -1,3 +1,4 @@
+<img width="577" height="709" alt="Screenshot 2026-07-19 172131" src="https://github.com/user-attachments/assets/e4ea611e-6fc9-4adc-b7c5-17403a550158" />
 <img width="1107" height="629" alt="Screenshot 2026-07-19 181938" src="https://github.com/user-attachments/assets/161572a5-8e1b-4b16-9e5d-70ed1a1fbcbb" />
 # NEMESIS
 
